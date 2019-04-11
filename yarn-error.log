@@ -1,0 +1,31 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe D:\Program Files (x86)\Yarn\bin\yarn.js start
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\Program Files (x86)\Yarn\bin\;D:\Program Files\nodejs\;C:\Users\chenli\AppData\Local\Yarn\bin;C:\Users\chenli\AppData\Roaming\npm
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  10.15.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "E:\\person\\React demo"
+      at new MessageError (D:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at D:\Program Files (x86)\Yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (D:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at D:\Program Files (x86)\Yarn\lib\cli.js:109:13
